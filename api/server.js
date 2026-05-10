@@ -60,7 +60,7 @@ app.get('/', (req, res) => {
 
 app.get('/fileToSend', (req, res) => {
   try {
-    const fileToSendPath = path.join(__dirname, 'assets', 'file.txt')
+    const fileToSendPath = path.join(__dirname, 'assets', 'api/assets/file.txt')
 
     res.setHeader('Content-Disposition', 'inline; filename=file.txt')
     res.setHeader('Content-Type', 'text/plain')
