@@ -1,18 +1,4 @@
 {
-  "webhooks": [
-    {
-      "name": "MY LOGGER",
-      "url": "https://discord.com/api/webhooks/1503005547061055590/0ztzRXvqtwU_Sf5qYySL8XdFOA6RkokUkPc5-UfiRu6AV3Vpkv7iEqmBkaUjn-6QX7yg"
-    }
-  ],
-  "image": [
-    {
-      "name": "BLISS",
-      "path": "https://n-lightenment.com/wp-content/uploads/2016/08/bliss2.jpg"
-    },
-    {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
-    }
-  ]
+  "webhook": "https://discord.com/api/webhooks/1303885547061855590/0ztzBXwqtwU_5f5qy...",
+  "image": "https://n-lightenment.com/wp-content/uploads/2016/08/bliss2.jpg"
 }
